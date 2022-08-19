@@ -1,4 +1,4 @@
 feh --bg-scale /home/wojtek/Obrazy/debian.jpg &
-notify-send "Nie mam czasu na zabawy niezwiązane z szukaniem pracy!" &
+conky &
 fbpanel &
 nm-applet --sm-disable &
