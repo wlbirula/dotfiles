@@ -1,0 +1,159 @@
+<openbox_pipe_menu>
+    <item label="File Manager" icon="/home/wojtek/.config/obmenu-generator/icons/056439c4523a53ffca961feb6349e1b5.png"><action name="Execute"><command><![CDATA[xdg-open .]]></command></action></item>
+    <item label="Terminal" icon="/home/wojtek/.config/obmenu-generator/icons/3b6ec43687039c4e8f41489c4cc6aa21.png"><action name="Execute"><command><![CDATA[xterm]]></command></action></item>
+    <item label="Web Browser" icon="/home/wojtek/.config/obmenu-generator/icons/dc778429d0ab8a5dcb9d845bfb5cb4e2.png"><action name="Execute"><command><![CDATA[xdg-open http://]]></command></action></item>
+    <item label="Run command" icon="/home/wojtek/.config/obmenu-generator/icons/995d976e7fca10d2b737e36e2d851e05.png"><action name="Execute"><command><![CDATA[gmrun]]></command></action></item>
+  <separator label="Categories"/>
+  <menu id="0.109460011663945" icon="/home/wojtek/.config/obmenu-generator/icons/8316bee8d1cde1b709b3411defdeff26.png" label="Accessories">
+    <item label="gedit" icon="/home/wojtek/.config/obmenu-generator/icons/bbea39b0c4eeea0163865d479524de33.png"><action name="Execute"><command><![CDATA[gedit]]></command></action></item>
+    <item label="GVim" icon="/home/wojtek/.config/obmenu-generator/icons/b64d4ed6512869d053357dbd62f9c47b.png"><action name="Execute"><command><![CDATA[gvim -f]]></command></action></item>
+    <item label="Kalkulator MATE" icon="/home/wojtek/.config/obmenu-generator/icons/af123ed8f3124765bd6bd73ded555fb3.png"><action name="Execute"><command><![CDATA[mate-calc]]></command></action></item>
+    <item label="LXQt File Archiver" icon="/home/wojtek/.config/obmenu-generator/icons/7737c693823ba1fc9ac46a2c192ac8ef.png"><action name="Execute"><command><![CDATA[lxqt-archiver]]></command></action></item>
+    <item label="Menedżer archiwów Engrampa" icon="/home/wojtek/.config/obmenu-generator/icons/7737c693823ba1fc9ac46a2c192ac8ef.png"><action name="Execute"><command><![CDATA[engrampa]]></command></action></item>
+    <item label="Menedżer plików PCManFM" icon="/home/wojtek/.config/obmenu-generator/icons/056439c4523a53ffca961feb6349e1b5.png"><action name="Execute"><command><![CDATA[pcmanfm]]></command></action></item>
+    <item label="Midnight Commander editor" icon="/home/wojtek/.config/obmenu-generator/icons/718f11a54d9e9636c0059f670de114d5.png"><action name="Execute"><command><![CDATA[xterm -e 'mcedit']]></command></action></item>
+    <item label="Midnight Commander" icon="/home/wojtek/.config/obmenu-generator/icons/718f11a54d9e9636c0059f670de114d5.png"><action name="Execute"><command><![CDATA[xterm -e 'mc']]></command></action></item>
+    <item label="Narzędzie wyszukiwania MATE" icon="/home/wojtek/.config/obmenu-generator/icons/f139942a6fe392a25bc4c40c75d16c0c.png"><action name="Execute"><command><![CDATA[mate-search-tool]]></command></action></item>
+    <item label="nitrogen" icon="/home/wojtek/.config/obmenu-generator/icons/dc07ea0146d8fe8408ee1b3a35dded2d.png"><action name="Execute"><command><![CDATA[nitrogen]]></command></action></item>
+    <item label="NixNote2" icon="/home/wojtek/.config/obmenu-generator/icons/2b4acf0830d63d1805ff203dda771cd5.png"><action name="Execute"><command><![CDATA[nixnote2]]></command></action></item>
+    <item label="Plank" icon="/home/wojtek/.config/obmenu-generator/icons/b9a111b76a523269bfe96897cfaac71b.png"><action name="Execute"><command><![CDATA[plank]]></command></action></item>
+    <item label="Pluma" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png"><action name="Execute"><command><![CDATA[pluma]]></command></action></item>
+    <item label="Pobranie zrzutu ekranu" icon="/home/wojtek/.config/obmenu-generator/icons/56ed43d7f5d605af7b9688fb461f6501.png"><action name="Execute"><command><![CDATA[mate-screenshot --interactive]]></command></action></item>
+    <item label="Podgląd czcionek" icon="/home/wojtek/.config/obmenu-generator/icons/b1979f97064e736767c08f5bf14a159a.png"><action name="Execute"><command><![CDATA[/usr/libexec/font-manager/font-viewer]]></command></action></item>
+    <item label="Pomoc" icon="/home/wojtek/.config/obmenu-generator/icons/b75f209eef7df1145e97962fe30a18eb.png"><action name="Execute"><command><![CDATA[yelp]]></command></action></item>
+    <item label="Przeglądarka czcionek MATE" icon="/home/wojtek/.config/obmenu-generator/icons/b1979f97064e736767c08f5bf14a159a.png"><action name="Execute"><command><![CDATA[mate-font-viewer]]></command></action></item>
+    <item label="Vim" icon="/home/wojtek/.config/obmenu-generator/icons/b64d4ed6512869d053357dbd62f9c47b.png"><action name="Execute"><command><![CDATA[xterm -e 'vim']]></command></action></item>
+    <item label="VirtualBox" icon="/home/wojtek/.config/obmenu-generator/icons/5b5d5e4450ff66dee8db88b8a19248ba.png"><action name="Execute"><command><![CDATA[VirtualBox]]></command></action></item>
+  </menu>
+  <menu id="0.860067721313925" icon="/home/wojtek/.config/obmenu-generator/icons/50111962f42106ee4c52b38b25985ef5.png" label="Development">
+    <item label="Geany" icon="/home/wojtek/.config/obmenu-generator/icons/4761c663ac82f3092c11930763bc15cb.png"><action name="Execute"><command><![CDATA[geany]]></command></action></item>
+    <item label="IDLE (using Python-3.10)" icon="/home/wojtek/.config/obmenu-generator/icons/2479e41c713c5b35703374a6adbbdb4a.png"><action name="Execute"><command><![CDATA[/usr/bin/idle-python3.10]]></command></action></item>
+    <item label="Visual Studio Code" icon="/home/wojtek/.config/obmenu-generator/icons/9039cd2073aea28047e1a611a469d890.png"><action name="Execute"><command><![CDATA[/usr/share/code/code --unity-launch]]></command></action></item>
+  </menu>
+  <menu id="0.0437505792743984" icon="/home/wojtek/.config/obmenu-generator/icons/db47fcf75814561d4f68dabef0204eac.png" label="Education">
+    <item label="Anki" icon="/home/wojtek/.config/obmenu-generator/icons/b4864683c12311947bdcfd012d5c0baf.png"><action name="Execute"><command><![CDATA[anki]]></command></action></item>
+  </menu>
+  <menu id="0.717047348708498" icon="/home/wojtek/.config/obmenu-generator/icons/780bd2b3c4d186d839c84be669d69869.png" label="Games">
+    <item label="TINT" icon="/home/wojtek/.config/obmenu-generator/icons/8eee9be9a1751e5cd1843bcbe978a8a4.png"><action name="Execute"><command><![CDATA[xterm -e 'sh -c '/usr/games/tint -l 1;echo;echo PRESS ENTER;read line'']]></command></action></item>
+  </menu>
+  <menu id="0.62436159875968" icon="/home/wojtek/.config/obmenu-generator/icons/ad24bd06bf007fa1bb14b2122e1335d7.png" label="Graphics">
+    <item label="Edytor obrazów GIMP" icon="/home/wojtek/.config/obmenu-generator/icons/444f3e87a8d9b572c36f129d3feee249.png"><action name="Execute"><command><![CDATA[gimp-2.10]]></command></action></item>
+    <item label="ImageMagick (color depth=q16)" icon="/home/wojtek/.config/obmenu-generator/icons/580b316a16dfc4b8f2bd77db51fa055e.png"><action name="Execute"><command><![CDATA[/usr/bin/display-im6.q16 -nostdin]]></command></action></item>
+    <item label="LibreOffice Draw" icon="/home/wojtek/.config/obmenu-generator/icons/40954bcd0ca65dae970f24d1c8760fb1.png"><action name="Execute"><command><![CDATA[libreoffice --draw]]></command></action></item>
+    <item label="Przeglądarka obrazów Eye of MATE" icon="/home/wojtek/.config/obmenu-generator/icons/41db1989a839c13a20a942e1fdd6a1f7.png"><action name="Execute"><command><![CDATA[eom]]></command></action></item>
+    <item label="Wybór kolorów MATE" icon="/home/wojtek/.config/obmenu-generator/icons/65261e110995ef7b1f4a6afefa45fcec.png"><action name="Execute"><command><![CDATA[mate-color-select]]></command></action></item>
+  </menu>
+  <menu id="0.189848852329291" icon="/home/wojtek/.config/obmenu-generator/icons/cd754e08ef515f015b291dd7f6f7d8eb.png" label="Multimedia">
+    <item label="Dźwięk" icon="/home/wojtek/.config/obmenu-generator/icons/c3a31fce0812021b435766af26b3fa36.png"><action name="Execute"><command><![CDATA[mate-volume-control]]></command></action></item>
+    <item label="Odtwarzacz mpv" icon="/home/wojtek/.config/obmenu-generator/icons/0971ba1aa82b85d01b555aaf48d2c8ca.png"><action name="Execute"><command><![CDATA[mpv --player-operation-mode=pseudo-gui --]]></command></action></item>
+    <item label="PulseAudio System Tray" icon="/home/wojtek/.config/obmenu-generator/icons/c3a31fce0812021b435766af26b3fa36.png"><action name="Execute"><command><![CDATA[pasystray]]></command></action></item>
+    <item label="QasMixer" icon="/home/wojtek/.config/obmenu-generator/icons/54517c511d7813d9f382562832f531ec.png"><action name="Execute"><command><![CDATA[qasmixer]]></command></action></item>
+    <item label="Sterowanie głośnością PulseAudio" icon="/home/wojtek/.config/obmenu-generator/icons/c3a31fce0812021b435766af26b3fa36.png"><action name="Execute"><command><![CDATA[pavucontrol]]></command></action></item>
+    <item label="VLC media player" icon="/home/wojtek/.config/obmenu-generator/icons/2c56b9783dcd2165fc78ecadd49e99ed.png"><action name="Execute"><command><![CDATA[/usr/bin/vlc --started-from-file]]></command></action></item>
+  </menu>
+  <menu id="0.235798301544801" icon="/home/wojtek/.config/obmenu-generator/icons/8eab12ae54630960a2dfa2ecc76a93de.png" label="Network">
+    <item label="Firefox" icon="/home/wojtek/.config/obmenu-generator/icons/b655851747a25e30e83edeecd4d40608.png"><action name="Execute"><command><![CDATA[/usr/lib/firefox/firefox]]></command></action></item>
+    <item label="Klient poczty Thunderbird" icon="/home/wojtek/.config/obmenu-generator/icons/5a068b9df09418694a95c3afa6f2eac2.png"><action name="Execute"><command><![CDATA[/usr/bin/thunderbird]]></command></action></item>
+    <item label="Microsoft Teams - Preview" icon="/home/wojtek/.config/obmenu-generator/icons/ed0bd04eaeb6ee6dfc255f583c4b96dd.png"><action name="Execute"><command><![CDATA[teams]]></command></action></item>
+    <item label="mutt" icon="/home/wojtek/.config/obmenu-generator/icons/b4a2af4259f7a1de9a0345c752c1622e.png"><action name="Execute"><command><![CDATA[xterm -e 'mutt']]></command></action></item>
+    <item label="NixNote2" icon="/home/wojtek/.config/obmenu-generator/icons/2b4acf0830d63d1805ff203dda771cd5.png"><action name="Execute"><command><![CDATA[nixnote2]]></command></action></item>
+    <item label="qutebrowser" icon="/home/wojtek/.config/obmenu-generator/icons/f54ce2e947d93c5ee3a333f9f95e8221.png"><action name="Execute"><command><![CDATA[qutebrowser --untrusted-args]]></command></action></item>
+    <item label="Transmission" icon="/home/wojtek/.config/obmenu-generator/icons/cf96566efc0a525c2119dc2d79804fe2.png"><action name="Execute"><command><![CDATA[transmission-gtk]]></command></action></item>
+  </menu>
+  <menu id="0.243940732250017" icon="/home/wojtek/.config/obmenu-generator/icons/ebdfecf6936d06d5b3f339607065c453.png" label="Office">
+    <item label="E-book reader" icon="/home/wojtek/.config/obmenu-generator/icons/ce32f267ba6102e3b351a1d495bc29a2.png"><action name="Execute"><command><![CDATA[FBReader]]></command></action></item>
+    <item label="LibreOffice Base" icon="/home/wojtek/.config/obmenu-generator/icons/7e993072309b00e2922ba0e099a4ae94.png"><action name="Execute"><command><![CDATA[libreoffice --base]]></command></action></item>
+    <item label="LibreOffice Calc" icon="/home/wojtek/.config/obmenu-generator/icons/8bba75c48f9f720822f788a3b7e88ef3.png"><action name="Execute"><command><![CDATA[libreoffice --calc]]></command></action></item>
+    <item label="LibreOffice Draw" icon="/home/wojtek/.config/obmenu-generator/icons/40954bcd0ca65dae970f24d1c8760fb1.png"><action name="Execute"><command><![CDATA[libreoffice --draw]]></command></action></item>
+    <item label="LibreOffice Impress" icon="/home/wojtek/.config/obmenu-generator/icons/3682be7eae9933198948d1ae50736a7f.png"><action name="Execute"><command><![CDATA[libreoffice --impress]]></command></action></item>
+    <item label="LibreOffice Math" icon="/home/wojtek/.config/obmenu-generator/icons/50b887a791a116f3e0db8289bba4a3f2.png"><action name="Execute"><command><![CDATA[libreoffice --math]]></command></action></item>
+    <item label="LibreOffice Start Center" icon="/home/wojtek/.config/obmenu-generator/icons/d64ad0095e2e704e250b9b966cf75524.png"><action name="Execute"><command><![CDATA[libreoffice]]></command></action></item>
+    <item label="LibreOffice Writer" icon="/home/wojtek/.config/obmenu-generator/icons/43aa6e4ff831634878cf92f4009cdca9.png"><action name="Execute"><command><![CDATA[libreoffice --writer]]></command></action></item>
+    <item label="mutt" icon="/home/wojtek/.config/obmenu-generator/icons/b4a2af4259f7a1de9a0345c752c1622e.png"><action name="Execute"><command><![CDATA[xterm -e 'mutt']]></command></action></item>
+    <item label="Przeglądarka dokumentów Atril" icon="/home/wojtek/.config/obmenu-generator/icons/6cf8ec768eb47556025e2dd551a9810c.png"><action name="Execute"><command><![CDATA[atril]]></command></action></item>
+    <item label="Słownik MATE" icon="/home/wojtek/.config/obmenu-generator/icons/0f78fd567888fa0ddccad3fb8ef8d4dd.png"><action name="Execute"><command><![CDATA[mate-dictionary]]></command></action></item>
+  </menu>
+  <menu id="0.126810288979332" icon="/home/wojtek/.config/obmenu-generator/icons/62cb247db1f7a0e8fcbef6468c40b633.png" label="Other">
+    <item label="Pomoc" icon="/home/wojtek/.config/obmenu-generator/icons/b75f209eef7df1145e97962fe30a18eb.png"><action name="Execute"><command><![CDATA[yelp help:mate-user-guide]]></command></action></item>
+  </menu>
+  <menu id="0.300857519324154" icon="/home/wojtek/.config/obmenu-generator/icons/4f850830a3b5e3faca1f55cc502aba2d.png" label="Settings">
+    <item label="Additional Drivers" icon="/home/wojtek/.config/obmenu-generator/icons/8eaa57149ddc62b3942ddd476d97761b.png"><action name="Execute"><command><![CDATA[/usr/bin/software-properties-gtk --open-tab=4]]></command></action></item>
+    <item label="Centrum sterowania" icon="/home/wojtek/.config/obmenu-generator/icons/133b4b7277f4ec72a1aea21f15784040.png"><action name="Execute"><command><![CDATA[mate-control-center]]></command></action></item>
+    <item label="Dźwięk" icon="/home/wojtek/.config/obmenu-generator/icons/c3a31fce0812021b435766af26b3fa36.png"><action name="Execute"><command><![CDATA[mate-volume-control]]></command></action></item>
+    <item label="Ekrany" icon="/home/wojtek/.config/obmenu-generator/icons/c6e73889a5b851dd4d172c5ebcb15a95.png"><action name="Execute"><command><![CDATA[mate-display-properties]]></command></action></item>
+    <item label="Klawiatura" icon="/home/wojtek/.config/obmenu-generator/icons/d4535c06ec4fd5e6e31a3297a2506ae8.png"><action name="Execute"><command><![CDATA[mate-keyboard-properties]]></command></action></item>
+    <item label="Konfiguracja zapory sieciowej" icon="/home/wojtek/.config/obmenu-generator/icons/662d57a4bdf2ace1979179f910189895.png"><action name="Execute"><command><![CDATA[gufw]]></command></action></item>
+    <item label="Menedżer daty i czasu" icon="/home/wojtek/.config/obmenu-generator/icons/e1b153a9bcfdce4e0f7cbdfd2eaa62ef.png"><action name="Execute"><command><![CDATA[mate-time-admin]]></command></action></item>
+    <item label="Mysz" icon="/home/wojtek/.config/obmenu-generator/icons/c0b8ff8af22f6b7a1e0c9d7362a24846.png"><action name="Execute"><command><![CDATA[mate-mouse-properties]]></command></action></item>
+    <item label="O mnie" icon="/home/wojtek/.config/obmenu-generator/icons/7324c841d47ee4d2ec4083040a318705.png"><action name="Execute"><command><![CDATA[mate-about-me]]></command></action></item>
+    <item label="Okna" icon="/home/wojtek/.config/obmenu-generator/icons/b23356e3121dc8dd280145e0ececa1c7.png"><action name="Execute"><command><![CDATA[mate-window-properties]]></command></action></item>
+    <item label="Openbox Configuration Manager" icon="/home/wojtek/.config/obmenu-generator/icons/b23356e3121dc8dd280145e0ececa1c7.png"><action name="Execute"><command><![CDATA[obconf]]></command></action></item>
+    <item label="Powiadomienia" icon="/home/wojtek/.config/obmenu-generator/icons/655c44de3d2c08402291c0528bdd0eeb.png"><action name="Execute"><command><![CDATA[xfce4-notifyd-config]]></command></action></item>
+    <item label="Pośrednik sieciowy" icon="/home/wojtek/.config/obmenu-generator/icons/73bc54cb8c15ffa9bee3494565917965.png"><action name="Execute"><command><![CDATA[mate-network-properties]]></command></action></item>
+    <item label="Preferencje wyglądu" icon="/home/wojtek/.config/obmenu-generator/icons/e521c659ae67a278955b613a9df0f7d8.png"><action name="Execute"><command><![CDATA[lxappearance]]></command></action></item>
+    <item label="Preferowane programy" icon="/home/wojtek/.config/obmenu-generator/icons/4f850830a3b5e3faca1f55cc502aba2d.png"><action name="Execute"><command><![CDATA[mate-default-applications-properties]]></command></action></item>
+    <item label="Programy startowe" icon="/home/wojtek/.config/obmenu-generator/icons/c13a7e7128e0362d71094ed0ccec7cc3.png"><action name="Execute"><command><![CDATA[mate-session-properties]]></command></action></item>
+    <item label="Skróty klawiszowe" icon="/home/wojtek/.config/obmenu-generator/icons/d4535c06ec4fd5e6e31a3297a2506ae8.png"><action name="Execute"><command><![CDATA[mate-keybinding-properties]]></command></action></item>
+    <item label="Software &amp; Updates" icon="/home/wojtek/.config/obmenu-generator/icons/c5f743ed3d9ba3342f2fa9afc6abca25.png"><action name="Execute"><command><![CDATA[software-properties-gtk]]></command></action></item>
+    <item label="Software &amp; Updates" icon="/home/wojtek/.config/obmenu-generator/icons/c5f743ed3d9ba3342f2fa9afc6abca25.png"><action name="Execute"><command><![CDATA[software-properties-gtk]]></command></action></item>
+    <item label="Sterowanie głośnością PulseAudio" icon="/home/wojtek/.config/obmenu-generator/icons/c3a31fce0812021b435766af26b3fa36.png"><action name="Execute"><command><![CDATA[pavucontrol]]></command></action></item>
+    <item label="Synaptic Menedżer Pakietów" icon="/home/wojtek/.config/obmenu-generator/icons/97e61a06550d4d44505825cf7be80357.png"><action name="Execute"><command><![CDATA[synaptic-pkexec]]></command></action></item>
+    <item label="Technologie wspierające" icon="/home/wojtek/.config/obmenu-generator/icons/deab2509f52aaa8f38917e6becc6080e.png"><action name="Execute"><command><![CDATA[mate-at-properties]]></command></action></item>
+    <item label="Ustawienia panelu tint2" icon="/home/wojtek/.config/obmenu-generator/icons/b9a111b76a523269bfe96897cfaac71b.png"><action name="Execute"><command><![CDATA[tint2conf]]></command></action></item>
+    <item label="Ustawienia pulpitu" icon="/home/wojtek/.config/obmenu-generator/icons/4bc047ffb7fa61a66825b82831ff2a5d.png"><action name="Execute"><command><![CDATA[pcmanfm --desktop-pref]]></command></action></item>
+    <item label="Ustawienia wyświetlania" icon="/home/wojtek/.config/obmenu-generator/icons/7fe8254aff3820322523a56d3a2d62cc.png"><action name="Execute"><command><![CDATA[lxrandr]]></command></action></item>
+    <item label="Wygaszacz ekranu" icon="/home/wojtek/.config/obmenu-generator/icons/976ed5a7d39975d0ffa4cee9bf5616fe.png"><action name="Execute"><command><![CDATA[mate-screensaver-preferences]]></command></action></item>
+    <item label="Wygląd" icon="/home/wojtek/.config/obmenu-generator/icons/e521c659ae67a278955b613a9df0f7d8.png"><action name="Execute"><command><![CDATA[mate-appearance-properties]]></command></action></item>
+    <item label="Wyskakujące powiadomienia" icon="/home/wojtek/.config/obmenu-generator/icons/655c44de3d2c08402291c0528bdd0eeb.png"><action name="Execute"><command><![CDATA[mate-notification-properties]]></command></action></item>
+    <item label="Zaawansowana konfiguracja sieci" icon="/home/wojtek/.config/obmenu-generator/icons/1ca247cbfc8d54fc2aa843db69115dd7.png"><action name="Execute"><command><![CDATA[nm-connection-editor]]></command></action></item>
+    <item label="Zarządzanie plikami" icon="/home/wojtek/.config/obmenu-generator/icons/056439c4523a53ffca961feb6349e1b5.png"><action name="Execute"><command><![CDATA[/usr/bin/caja-file-management-properties]]></command></action></item>
+    <item label="Zarządzanie zasilaniem" icon="/home/wojtek/.config/obmenu-generator/icons/90cc0c3ad70241c1cc45a99d3b4cd21a.png"><action name="Execute"><command><![CDATA[mate-power-preferences]]></command></action></item>
+  </menu>
+  <menu id="0.465515264791787" icon="/home/wojtek/.config/obmenu-generator/icons/27b790c3d2f234d38f4746f9ec99bc51.png" label="System">
+    <item label="Analizator wykorzystania dysku MATE" icon="/home/wojtek/.config/obmenu-generator/icons/670de30b0b6b42bd7069337e28a6a5f9.png"><action name="Execute"><command><![CDATA[mate-disk-usage-analyzer]]></command></action></item>
+    <item label="Caja" icon="/home/wojtek/.config/obmenu-generator/icons/056439c4523a53ffca961feb6349e1b5.png"><action name="Execute"><command><![CDATA[/usr/bin/caja --no-desktop --browser]]></command></action></item>
+    <item label="conky" icon="/home/wojtek/.config/obmenu-generator/icons/318979f26d22619bc4641612b7836f9c.png"><action name="Execute"><command><![CDATA[conky --daemonize --pause=1]]></command></action></item>
+    <item label="GKrellM System Monitor" icon="/home/wojtek/.config/obmenu-generator/icons/4c37a76e879849188565c219683c36b9.png"><action name="Execute"><command><![CDATA[gkrellm]]></command></action></item>
+    <item label="GParted" icon="/home/wojtek/.config/obmenu-generator/icons/670de30b0b6b42bd7069337e28a6a5f9.png"><action name="Execute"><command><![CDATA[/usr/sbin/gparted]]></command></action></item>
+    <item label="Menedżer plików PCManFM" icon="/home/wojtek/.config/obmenu-generator/icons/056439c4523a53ffca961feb6349e1b5.png"><action name="Execute"><command><![CDATA[pcmanfm]]></command></action></item>
+    <item label="Midnight Commander" icon="/home/wojtek/.config/obmenu-generator/icons/718f11a54d9e9636c0059f670de114d5.png"><action name="Execute"><command><![CDATA[xterm -e 'mc']]></command></action></item>
+    <item label="Monitor systemu MATE" icon="/home/wojtek/.config/obmenu-generator/icons/4c37a76e879849188565c219683c36b9.png"><action name="Execute"><command><![CDATA[mate-system-monitor]]></command></action></item>
+    <item label="Narzędzie do montowania dysków MATE" icon="/home/wojtek/.config/obmenu-generator/icons/6e7dfc1b827fdee1d4a2470dd8883465.png"><action name="Execute"><command><![CDATA[mate-disk-image-mounter]]></command></action></item>
+    <item label="Przeglądarka dzienników systemowych" icon="/home/wojtek/.config/obmenu-generator/icons/3a0f0fe2d2c56ee8a8e5c2c9d28ed4b0.png"><action name="Execute"><command><![CDATA[mate-system-log]]></command></action></item>
+    <item label="Statystyki zasilania" icon="/home/wojtek/.config/obmenu-generator/icons/90cc0c3ad70241c1cc45a99d3b4cd21a.png"><action name="Execute"><command><![CDATA[mate-power-statistics]]></command></action></item>
+    <item label="Synaptic Menedżer Pakietów" icon="/home/wojtek/.config/obmenu-generator/icons/97e61a06550d4d44505825cf7be80357.png"><action name="Execute"><command><![CDATA[synaptic-pkexec]]></command></action></item>
+    <item label="Terminal MATE" icon="/home/wojtek/.config/obmenu-generator/icons/3b6ec43687039c4e8f41489c4cc6aa21.png"><action name="Execute"><command><![CDATA[mate-terminal]]></command></action></item>
+    <item label="Tint2" icon="/home/wojtek/.config/obmenu-generator/icons/b9a111b76a523269bfe96897cfaac71b.png"><action name="Execute"><command><![CDATA[tint2]]></command></action></item>
+    <item label="UXTerm" icon="/home/wojtek/.config/obmenu-generator/icons/592890d943d21812e1082e4d620ccf1d.png"><action name="Execute"><command><![CDATA[uxterm]]></command></action></item>
+    <item label="VirtualBox" icon="/home/wojtek/.config/obmenu-generator/icons/5b5d5e4450ff66dee8db88b8a19248ba.png"><action name="Execute"><command><![CDATA[VirtualBox]]></command></action></item>
+    <item label="Wykorzystanie dysku" icon="/home/wojtek/.config/obmenu-generator/icons/670de30b0b6b42bd7069337e28a6a5f9.png"><action name="Execute"><command><![CDATA[baobab]]></command></action></item>
+    <item label="XSensors" icon="/home/wojtek/.config/obmenu-generator/icons/4e7069f949c97a2dae694aeca47d5b7f.png"><action name="Execute"><command><![CDATA[/usr/bin/xsensors]]></command></action></item>
+    <item label="XTerm" icon="/home/wojtek/.config/obmenu-generator/icons/592890d943d21812e1082e4d620ccf1d.png"><action name="Execute"><command><![CDATA[xterm]]></command></action></item>
+  </menu>
+  <separator/>
+  <menu id="0.621712645040567" icon="/home/wojtek/.config/obmenu-generator/icons/e8c572aaaca49f2fdf28268bb3d53f32.png" label="Advanced Settings">
+    <item label="Conky RC" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.conkyrc]]></command></action></item>
+    <item label="Tint2 Panel" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/tint2/tint2rc]]></command></action></item>
+  <menu id="0.681829131471194" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png" label="Obmenu-Generator">
+    <item label="Menu Schema" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/obmenu-generator/schema.pl]]></command></action></item>
+    <item label="Menu Config" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/obmenu-generator/config.pl]]></command></action></item>
+  <separator/>
+    <item label="Generate a static menu" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png"><action name="Execute"><command><![CDATA[obmenu-generator -s -c]]></command></action></item>
+    <item label="Generate a static menu with icons" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png"><action name="Execute"><command><![CDATA[obmenu-generator -s -i -c]]></command></action></item>
+  <separator/>
+    <item label="Generate a dynamic menu" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png"><action name="Execute"><command><![CDATA[obmenu-generator -p]]></command></action></item>
+    <item label="Generate a dynamic menu with icons" icon="/home/wojtek/.config/obmenu-generator/icons/dde742cb9ec571a7036774b93e53e2c5.png"><action name="Execute"><command><![CDATA[obmenu-generator -p -i]]></command></action></item>
+  <separator/>
+    <item label="Refresh cache" icon="/home/wojtek/.config/obmenu-generator/icons/76cc344aab3a1a42861b56bec56c44e6.png"><action name="Execute"><command><![CDATA[obmenu-generator -d]]></command></action></item>
+  </menu>
+  <menu id="0.857705102849437" icon="/home/wojtek/.config/obmenu-generator/icons/b23356e3121dc8dd280145e0ececa1c7.png" label="Openbox">
+    <item label="Openbox Autostart" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/autostart]]></command></action></item>
+    <item label="Openbox RC" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/rc.xml]]></command></action></item>
+    <item label="Openbox Menu" icon="/home/wojtek/.config/obmenu-generator/icons/ab32bf9d3544ad31194e33403cb8738e.png"><action name="Execute"><command><![CDATA[geany ~/.config/openbox/menu.xml]]></command></action></item>
+    <item label="Reconfigure Openbox" icon="/home/wojtek/.config/obmenu-generator/icons/b23356e3121dc8dd280145e0ececa1c7.png"><action name="Execute"><command><![CDATA[openbox --reconfigure]]></command></action></item>
+  </menu>
+  </menu>
+  <separator/>
+    <item label="Lock" icon="/home/wojtek/.config/obmenu-generator/icons/976ed5a7d39975d0ffa4cee9bf5616fe.png"><action name="Execute"><command><![CDATA[xscreensaver-command -lock]]></command></action></item>
+    <item label="Exit" icon="/home/wojtek/.config/obmenu-generator/icons/1a484b15e8b08eb11a6810daa089ac82.png"><action name="Exit"/></item>
+</openbox_pipe_menu>

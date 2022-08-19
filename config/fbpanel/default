@@ -1,0 +1,67 @@
+Global {
+    edge = bottom
+    allign = right
+    margin = 0
+    widthtype = pixel
+    width = 1366
+    height = 24
+    transparent = true
+    tintcolor = #ffffff
+    alpha = 103
+    setdocktype = true
+    setpartialstrut = true
+    autohide = false
+    heightWhenHidden = 2
+    roundcorners = false
+    roundcornersradius = 7
+    layer = above
+    MaxElemHeight = 32
+    xmargin = 0
+    ymargin = 0
+    setlayer = false
+}
+
+Plugin {
+    type = taskbar
+    expand = true
+    config {
+        ShowIconified = true
+        ShowMapped = true
+        ShowAllDesks = false
+        tooltips = true
+        IconsOnly = false
+        MaxTaskWidth = 150
+    }
+}
+
+Plugin {
+    type = pager
+    config {
+        showwallpaper = true
+    }
+}
+Plugin {
+    type = net
+    expand = false
+    padding = 0
+    config {
+        interface = wlp2s0
+        TxLimit = 20
+        RxLimit = 190
+        TxColor = violet
+        RxColor = blue
+    }
+}
+Plugin {
+    type = tray
+}
+Plugin {
+    type = tclock
+    config {
+        ShowSeconds = false
+        HoursView = 24
+        TooltipFmt = %A %x
+        TextColor = white
+        Color = white
+    }
+}
